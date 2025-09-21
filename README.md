@@ -1,3 +1,6 @@
+Watch Me Build This Lab
+https://www.loom.com/share/505d5780501a49ca90baf8f1249c191f
+
 # Active Directory Lab: Creating a Group
 
 This README provides step-by-step instructions on how to create a group in Active Directory.  
